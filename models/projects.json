@@ -1,0 +1,29 @@
+[   
+    {
+        "name": "EasyStock Insight",
+        "live": "https://sealproject1-omega.vercel.app",
+        "git": "https://github.com/amritadutta25/sealproject1",
+        "img": "https://i.imgur.com/ff2Jnkv.png"
+    },
+
+    {
+        "name": "InvenTrack",
+        "live": "https://am-project2.onrender.com",
+        "git": "https://github.com/amritadutta25/project2",
+        "img": "https://i.imgur.com/clF54Do.pngg"
+    },
+
+    {
+      "name": "Amazon Clone",
+      "live": "https://app.herokuapp.com/whatever",
+      "git": "http://www.github.com/username/reponame",
+      "image": "https://mir-s3-cdn-cf.behance.net/projects/404/e27c62140935825.624af8b4ce37e.jpg"
+    },
+
+    {
+      "name": "Doordash Clone",
+      "live": "https://app.netlify.app/whatever",
+      "git": "http://www.github.com/username/reponame",
+      "image": "https://www.merchantcentric.com/wp-content/uploads/2021/10/doordash-blog-header.jpg"
+    }
+]
